@@ -1,0 +1,26 @@
+.logo-main-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.logo-img-container{
+    width: 7%;
+}
+.logo-input-container{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo-input-container>input{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border-width: 0px 0px 1px 0px;
+    font-family: 'Oswald', sans-serif;
+}
+.logo-img-container>img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

@@ -1,0 +1,8 @@
+.body-main-container{
+    padding: 40px;
+}
+.body-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
